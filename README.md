@@ -6,7 +6,7 @@
  
 ## Introdution 😎
 안녕하세요! 저는 미림마이스터고에 다니고 있는 조서현입니다! <br>
-저는 웹개발에 관심이 많으며 훌륭한 프론트엔드 개발자가 되기 위해 열심히 공부중입니다!
+저는 웹개발에 관심이 많으며 세상에 도움이 되는 프론트엔드 개발자가 되기 위해 열심히 공부중입니다!
 
 <br>
 
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <br>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" /> 
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white" />
 </p><br>
